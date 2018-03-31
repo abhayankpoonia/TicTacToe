@@ -11,7 +11,7 @@ inspired by,
 	a. Babli Devi
 	b. Sunder Pal Singh
 	c. Asha poonia
-	d. Sushmita.
+	d. Sushmita :)
 
 2. The game uploaded is in beta stage, please report all the bugs you encounter.
 
